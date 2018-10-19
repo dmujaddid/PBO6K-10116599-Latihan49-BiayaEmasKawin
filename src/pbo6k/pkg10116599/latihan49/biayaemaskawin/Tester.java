@@ -11,7 +11,7 @@ package pbo6k.pkg10116599.latihan49.biayaemaskawin;
  * Program : Program untuk menghitung biaya mahar emas kawin.
  *
  */
-public class MainProgram {
+public class Tester {
 
     /**
      * @param args the command line arguments
